@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @qr4k
+- 👋 Hi, I’m Łukasz
 - 👀 I’m interested in ML and Science in general
 - 🌱 I know (more or less): Python & SQL
 - 🌱 I’m currently learning Java Script and Django
