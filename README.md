@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Łukasz
 - 👀 I’m interested in ML and Science in general
-- 🌱 I know (more or less): Python & SQL
-- 🌱 I’m currently learning Java Script and Django
+- 🌱 I spend most of my time with: Python & SQL
+- 🌱 I’m currently improving my DeepLearning skills
 <!--- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me: GH
 
